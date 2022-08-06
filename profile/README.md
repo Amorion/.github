@@ -1,2 +1,2 @@
 # Amorioum
-Spread love peeps
+An element of love
