@@ -1,2 +1,2 @@
-# Amorioum
+# Amorium
 An element of love
