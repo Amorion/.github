@@ -27,9 +27,8 @@ Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</
 ![match screen](./profile/demo3.jpg)
 
 # Working Demo
+The project will look something like:
 
-The project will work like:
+> project is under development so this is just dummy data ofc!
 
-<video width="700" height="700" controls>
-<source src="./profile/demo_video.mp4" type="video/mp4">
-</video>
+<img src="https://im4.ezgif.com/tmp/ezgif-4-a254701043.gif" alt="demo">
