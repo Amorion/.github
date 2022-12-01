@@ -1,6 +1,8 @@
 # Amorium
 
-Amorium is a dating app which uses complex machine learning techniques to connect you to your soulmate !
+Amorium is a dating app which uses __complex machine learning techniques__ to connect you to your soulmate !
+
+In short, we do all the heavy lifting of finding someone with similar interests and you only do the part where you introduce yourself to each other and have all the fun of dating!
 
 <details>
 <summary>Click for nerd stuff</summary>
@@ -14,6 +16,7 @@ We aim to provide users (based on their preferences) with more matches like them
 ## UI Designs
 
 Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</em>
+
 ### The home screen for a logged in user looks like:
 
 <img src="./profile/demo1.jpg" width="500">
@@ -27,4 +30,6 @@ Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</
 
 The project will work like:
 
-<video width="700" height="700" controls><source src="./profile/demo_video.mp4" type="video/mp4"></video>
+<video width="700" height="700" controls>
+<source src="./profile/demo_video.mp4" type="video/mp4">
+</video>
