@@ -13,14 +13,17 @@ We aim to provide users (based on their preferences) with more matches like them
 
 ## UI Designs
 
-The home screen for a logged in user looks like:
+Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</em>
+### The home screen for a logged in user looks like:
+
 <img src="./profile/demo1.jpg" width="500">
 <img src="./profile/demo2.jpg" width="300" height="600">
 
-After the system finds a match, the screen looks like
+### After the system finds a match, the screen looks like
+
 ![match screen](./profile/demo3.jpg)
 
-# Demo
+# Working Demo
 
 The project will work like:
 
