@@ -19,16 +19,16 @@ Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</
 
 ### The home screen for a logged in user looks like:
 
-<img src="./profile/demo1.jpg" width="500">
-<img src="./profile/demo2.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo1.jpg?token=GHSAT0AAAAAABYWARTUJSABOFXIC5HUKEIIY4KLOHQ" width="500">
+<img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo2.jpg?token=GHSAT0AAAAAABYWARTV4LVB6OCY7GIUXQGIY4KLPYQ" width="300" height="600">
 
 ### After the system finds a match, the screen looks like
 
-![match screen](./profile/demo3.jpg)
+![match screen](https://raw.githubusercontent.com/Amorion/Design/main/demo/demo3.jpg?token=GHSAT0AAAAAABYWARTVOWDD52A2TXHUTPBYY4KLP3Q)
 
 # Working Demo
 The project will look something like:
 
 > project is under development so this is just dummy data ofc!
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-a254701043.gif" alt="demo">
+<img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo_video.gif?token=GHSAT0AAAAAABYWARTV4L3NCCFBDJJ3WJ6KY4KLQAA" alt="demo">
