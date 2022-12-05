@@ -20,7 +20,7 @@ Following the little glimpse of our app, <em>how it looks in iphone 14 pro max</
 ### The home screen for a logged in user looks like:
 
 <img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo1.jpg?token=GHSAT0AAAAAABYWARTUJSABOFXIC5HUKEIIY4KLOHQ" width="500">
-<img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo2.jpg?token=GHSAT0AAAAAABYWARTV4LVB6OCY7GIUXQGIY4KLPYQ" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Amorion/Design/main/demo/demo2.jpg?token=GHSAT0AAAAAABYWARTV4LVB6OCY7GIUXQGIY4KLPYQ" height="600">
 
 ### After the system finds a match, the screen looks like
 
